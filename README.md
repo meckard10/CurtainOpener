@@ -1,21 +1,23 @@
 # CurtainOpener
 
-Continuation of 4820_AlarmClock project.
+*Continuation of 4820_AlarmClock project.*
 
 Melody Eckard
 
-Overview:
+##Overview
 
-	Light-sensitive window curtain opener that will automatically open 
-	user's curtains to allow natural light to wake them up. Utilizes
-	MSP430 to sense outside light and control the cutain opener.
+Light-sensitive window curtain opener that will automatically open user's curtains to 
+allow natural light to wake them up. UtilizesMSP430 to sense outside light and control 
+the cutain opener.
 
-/schematics
+##Folders
+
+1. /schematics
 	- contains pcb schematic files
 
-/code
+2. /code
 	- contains MSP430 code files
 
-/original material
+3. /original\ material/
 	- contains imported files from original project
 

@@ -4,13 +4,13 @@
 
 Melody Eckard
 
-##Overview
+## Overview
 
 Light-sensitive window curtain opener that will automatically open user's curtains to 
 allow natural light to wake them up. UtilizesMSP430 to sense outside light and control 
 the cutain opener.
 
-##Folders
+## Folders
 
 1. /schematics
 	- contains pcb schematic files

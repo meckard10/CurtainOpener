@@ -13,7 +13,7 @@ the cutain opener.
 ## Folders
 
 1. /schematics
-	- contains pcb schematic files
+	- contains pcb schematic files and 3D print designs
 
 2. /code
 	- contains MSP430 code files

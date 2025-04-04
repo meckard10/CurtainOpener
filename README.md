@@ -1,6 +1,7 @@
 # CurtainOpener
 
 *Continuation of 4820_AlarmClock project.*
+*Melody Eckard, Elliot Phillips, Madeline Woehrman*
 
 Melody Eckard
 
